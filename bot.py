@@ -3,6 +3,7 @@
 #coded by A1ir3z ...
 
 import telebot
+import time
 
 bot = telebot.TeleBot("1127879856:AAFyD-v0Td-lgOKQHJM8-X2738cOhK8L0Gc")
 
